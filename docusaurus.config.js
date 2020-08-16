@@ -15,17 +15,16 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          href: 'http://tv.aroratricks.cf/',
+          label: 'AroraTV',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'http://aroratricks.cf/',
-          label: 'Website',
+          href: 'http://pro.aroratricks.cf/',
+          label: 'Sumit Arora',
           position: 'right',
         },
+        {to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {
