@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'Arora',
+  title: 'AroraTricks',
   tagline: 'Best Place for Android and Tech Lovers',
   url: 'https://arora.versel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'AroraTricks', // Usually your GitHub org/user name.
+  projectName: 'arora', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Arora',
+      title: 'AroraTricks',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
