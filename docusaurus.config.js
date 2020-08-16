@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Arora',
-  tagline: 'The tagline of my site',
+  tagline: 'Best Place for Android and Tech Lovers',
   url: 'https://arora.versel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -22,8 +22,8 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'http://aroratricks.cf/',
+          label: 'Website',
           position: 'right',
         },
       ],
