@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Arora',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://arora.versel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Arora',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
